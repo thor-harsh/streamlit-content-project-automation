@@ -1,4 +1,6 @@
 streamlit
 pandas
 requests
+bs4
 google-generativeai
+python-dotenv
